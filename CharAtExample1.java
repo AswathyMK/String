@@ -1,5 +1,5 @@
 
-public class charAtExample_1 
+public class charAtExample1 
 {
 
 	public static void main(String[] args) 
